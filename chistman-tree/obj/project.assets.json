@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Private\\mentoring-projekty\\print-christmas-tree\\chistman-tree\\chistman-tree\\chistman-tree.csproj",
+      "projectUniqueName": "C:\\Private\\mentoring-projekty\\christmas-tree-printer\\chistman-tree\\chistman-tree.csproj",
       "projectName": "chistman-tree",
-      "projectPath": "C:\\Private\\mentoring-projekty\\print-christmas-tree\\chistman-tree\\chistman-tree\\chistman-tree.csproj",
+      "projectPath": "C:\\Private\\mentoring-projekty\\christmas-tree-printer\\chistman-tree\\chistman-tree.csproj",
       "packagesPath": "C:\\Users\\Streamer\\.nuget\\packages\\",
-      "outputPath": "C:\\Private\\mentoring-projekty\\print-christmas-tree\\chistman-tree\\chistman-tree\\obj\\",
+      "outputPath": "C:\\Private\\mentoring-projekty\\christmas-tree-printer\\chistman-tree\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

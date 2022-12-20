@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0qfnrb5yzNI7CbjzXonErShwXs0ZbIdvjV8pAmvYEWajPwNs/dFRI0eKhOuEkccRqK4jPWmKUQrhmeE/42rl9A==",
+  "dgSpecHash": "IFhc1MdptLjnF+eBsbYGV5AxHabu5B2osAGc8zXpeG6d5zMoMGUQlBOU+59dX//2cY9MapdQbiV0meKFNWAKsw==",
   "success": true,
-  "projectFilePath": "C:\\Private\\mentoring-projekty\\print-christmas-tree\\chistman-tree\\chistman-tree\\chistman-tree.csproj",
+  "projectFilePath": "C:\\Private\\mentoring-projekty\\christmas-tree-printer\\chistman-tree\\chistman-tree.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

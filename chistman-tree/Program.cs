@@ -13,10 +13,16 @@ namespace chistman_tree
             //check if it is number, maybe with int32.tryparse
             int christmanTreeHeight = ReadIntegerFromConsole();
 
+            //read numberic input without evaluation:
             //string christmanTreeHeightString = Console.ReadLine();
             //int christmanTreeHeight = Convert.ToInt32(christmanTreeHeightString);
 
             Console.WriteLine("Twoja wysykość choinki: " + christmanTreeHeight.ToString());
+
+
+            string characterPrint = ReadPrintingCharacter();
+
+            //is is non use default
 
             Console.WriteLine("");
             Console.WriteLine("Zaczynamy:");
@@ -36,7 +42,7 @@ namespace chistman_tree
 
                 for (int u = 1; u <= christmanTreeLineWidth; u++)
                 {
-                    christmasTreeLevel = christmasTreeLevel + "*";
+                    christmasTreeLevel = christmasTreeLevel + characterPrint;
                 }
 
                 Console.WriteLine(christmasTreeLevel);
@@ -48,7 +54,7 @@ namespace chistman_tree
             {
                 christmapTreeHolder = christmapTreeHolder + " ";
             }
-            christmapTreeHolder = christmapTreeHolder + "*";
+            christmapTreeHolder = christmapTreeHolder + characterPrint;
 
             Console.WriteLine(christmapTreeHolder);
 
@@ -69,6 +75,21 @@ namespace chistman_tree
             }
 
             return number;
+        }
+
+        public static string ReadPrintingCharacter()
+        {
+            bool isCharacter = false;
+            string input = string.Empty;
+
+            while (!isCharacter)
+            {
+                Console.WriteLine("Podaj znak do rysowania choinki:");
+                input = Console.ReadLine();
+                isCharacter = !string.IsNullOrWhiteSpace(input);
+            }
+
+            return input;
         }
     }
 }
