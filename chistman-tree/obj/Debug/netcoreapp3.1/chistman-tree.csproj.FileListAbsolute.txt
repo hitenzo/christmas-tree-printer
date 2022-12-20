@@ -1,0 +1,13 @@
+C:\Private\mentoring-projekty\print-christmas-tree\chistman-tree\chistman-tree\bin\Debug\netcoreapp3.1\chistman-tree.exe
+C:\Private\mentoring-projekty\print-christmas-tree\chistman-tree\chistman-tree\bin\Debug\netcoreapp3.1\chistman-tree.deps.json
+C:\Private\mentoring-projekty\print-christmas-tree\chistman-tree\chistman-tree\bin\Debug\netcoreapp3.1\chistman-tree.runtimeconfig.json
+C:\Private\mentoring-projekty\print-christmas-tree\chistman-tree\chistman-tree\bin\Debug\netcoreapp3.1\chistman-tree.runtimeconfig.dev.json
+C:\Private\mentoring-projekty\print-christmas-tree\chistman-tree\chistman-tree\bin\Debug\netcoreapp3.1\chistman-tree.dll
+C:\Private\mentoring-projekty\print-christmas-tree\chistman-tree\chistman-tree\bin\Debug\netcoreapp3.1\chistman-tree.pdb
+C:\Private\mentoring-projekty\print-christmas-tree\chistman-tree\chistman-tree\obj\Debug\netcoreapp3.1\chistman-tree.csprojAssemblyReference.cache
+C:\Private\mentoring-projekty\print-christmas-tree\chistman-tree\chistman-tree\obj\Debug\netcoreapp3.1\chistman-tree.AssemblyInfoInputs.cache
+C:\Private\mentoring-projekty\print-christmas-tree\chistman-tree\chistman-tree\obj\Debug\netcoreapp3.1\chistman-tree.AssemblyInfo.cs
+C:\Private\mentoring-projekty\print-christmas-tree\chistman-tree\chistman-tree\obj\Debug\netcoreapp3.1\chistman-tree.csproj.CoreCompileInputs.cache
+C:\Private\mentoring-projekty\print-christmas-tree\chistman-tree\chistman-tree\obj\Debug\netcoreapp3.1\chistman-tree.dll
+C:\Private\mentoring-projekty\print-christmas-tree\chistman-tree\chistman-tree\obj\Debug\netcoreapp3.1\chistman-tree.pdb
+C:\Private\mentoring-projekty\print-christmas-tree\chistman-tree\chistman-tree\obj\Debug\netcoreapp3.1\chistman-tree.genruntimeconfig.cache
